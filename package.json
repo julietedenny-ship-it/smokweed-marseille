@@ -1,0 +1,12 @@
+{
+  "name": "smokweed-munich",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Smokweed Munich informational website and protected link administration",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

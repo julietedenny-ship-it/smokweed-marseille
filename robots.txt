@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Indexation prioritaire sur la page d'accueil et les sections utiles du site
+# Le site est conçu pour être référencé en français, allemand et anglais.
